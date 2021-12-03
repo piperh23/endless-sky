@@ -349,6 +349,10 @@ phrase "visual media"
 
 phrase "friendly civilian"
 	word
+		"Hello, fellow space-farer!"
+
+phrase "friendly civilian"
+	word
 		"You should watch the video of"
 		"Tune your feed to the video of"
 		"Just watched the video of"
